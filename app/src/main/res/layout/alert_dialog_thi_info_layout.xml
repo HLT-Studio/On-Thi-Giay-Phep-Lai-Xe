@@ -17,7 +17,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Đề thi bằng lái hạng A1 bao gồm 25 câu hỏi. Thời gian làm bài 20 phút."
+        android:text="Đề thi bằng lái hạng A1 bao gồm 10 câu hỏi. Thời gian làm bài 19 phút."
         android:textSize="16sp" />
     <TextView
         android:layout_width="wrap_content"
@@ -28,7 +28,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Để vượt qua bài thi, bạn cần phải trả lời đúng 23/25 câu hỏi và không sai câu điểm liệt nào."
+        android:text="Để vượt qua bài thi, bạn cần phải trả lời đúng 8/10 câu hỏi và không sai câu điểm liệt nào."
         android:textSize="16sp" />
 
 </LinearLayout>
